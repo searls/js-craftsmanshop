@@ -1,0 +1,2 @@
+describe("CashRegister", function() {
+});
