@@ -1,0 +1,3 @@
+describe("Background Script", function() {
+
+});
